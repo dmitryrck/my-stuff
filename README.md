@@ -18,7 +18,8 @@ FIXME: listing of options this app accepts.
 
 ## Examples
 
-...
+    (require 'my-sfuff.core)
+    (hello "Bro")
 
 ### Bugs
 
