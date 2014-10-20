@@ -9,4 +9,5 @@
 (defn hello [name]
   (str "Hello, " name))
 
+(comment Foo returns bar)
 (defn foo [] "bar")
